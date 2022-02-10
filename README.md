@@ -1,3 +1,6 @@
+# Faucet-Sol
+Faucet Sol is a simple Solidity project for the Ethereum blockchain.
+
 ## Compile & deploy
 ```
 $ truffle console --network ropsten
